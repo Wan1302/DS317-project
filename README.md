@@ -1,1 +1,2 @@
-# DS317-project
+# Định nghĩa bài toán:
+Trong bối cảnh giáo dục trực tuyến đang phát triển nhanh chóng, bài toán đặt ra là dự đoán mức độ hài lòng của học viên đối với các khóa học trực tuyến (MOOC). Việc dự đoán này sẽ giúp xác định trước mức độ hài lòng của học viên dựa trên các yếu tố liên quan đến khóa học và trải nghiệm của người học, từ đó hỗ trợ cải thiện chất lượng khóa học và nâng cao trải nghiệm của học viên.
