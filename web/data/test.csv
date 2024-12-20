@@ -1,0 +1,283 @@
+id,name,num_users,total_cmt,positive,negative,neutral,average_completion_rate,number of resources,rank_binned,course_classification
+C_676664,aircraft carriers and carrier-based aircraft of major powers,11833,342.0,80.0,42.0,220.0,0.7823419005237187,98,4.481595860111844,Very satisfied
+C_682361,take you through linux in 1 week,44,0.0,0.0,0.0,0.0,0.6488716941778833,35,4.481595860111844,Dissatisfied
+C_1765596,components in automatic control systems,85,0.0,0.0,0.0,0.0,0.6488716941778833,89,4.481595860111844,Dissatisfied
+C_1828104,progress in human embryology,48,0.0,0.0,0.0,0.0,0.6488716941778833,67,7.0,Dissatisfied
+C_1737097,primary school teacher upgrade guide,1674,1970.0,720.0,47.0,1203.0,0.864557615601511,41,4.481595860111844,Satisfied
+C_788547,microcontroller principles and applications,4197,855.0,505.0,11.0,339.0,0.7340419596370023,166,4.481595860111844,Satisfied
+C_697585,the history and methods of governing history by famous historians,1138,48.0,23.0,4.0,21.0,0.6089981447124304,64,4.0,Neutral
+C_707031,how to write a good scientific research paper,29351,321.0,173.0,17.0,131.0,0.6488716941778833,31,1.0,Satisfied
+C_682723,environmental planning,910,7.0,2.0,0.0,5.0,0.6488716941778833,117,4.0,Neutral
+C_696610,football refereeing,1006,5.0,0.0,0.0,5.0,0.6488716941778833,40,2.0,Neutral
+C_1784706,software engineering,185,31.0,27.0,0.0,4.0,0.7838138010210907,63,2.0,Satisfied
+C_677076,introduction to american politics,7641,419.0,78.0,42.0,299.0,0.6488716941778833,105,1.0,Very satisfied
+C_735377,general academic english (skills),1240,7.0,4.0,0.0,3.0,0.6488716941778833,52,4.481595860111844,Dissatisfied
+C_1816152,clinical ethics and scientific research ethics,1025,0.0,0.0,0.0,0.0,0.6488716941778833,72,7.0,Dissatisfied
+C_905199,communication industry economy,5007,15.0,2.0,1.0,12.0,0.6488716941778833,63,4.481595860111844,Very satisfied
+C_2221582,marketing,168,0.0,0.0,0.0,0.0,0.6488716941778833,98,4.481595860111844,Dissatisfied
+C_682381,microcomputer principles and interface technology,3951,98.0,5.0,6.0,87.0,0.4640672782874618,112,4.481595860111844,Very dissatisfied
+C_1741534,landscape appreciation,5848,81.0,17.0,5.0,59.0,0.6488716941778833,54,4.481595860111844,Satisfied
+C_681079,life sciences and human life,257,4.0,0.0,1.0,3.0,0.6488716941778833,26,4.481595860111844,Dissatisfied
+C_696958,enterprise strategic management,57,0.0,0.0,0.0,0.0,0.6488716941778833,51,6.0,Dissatisfied
+C_948285,environmental monitoring,673,4.0,2.0,1.0,1.0,0.6768443204859793,186,4.481595860111844,Very satisfied
+C_735031,advanced mathematics,17665,3023.0,1021.0,258.0,1744.0,0.6488716941778833,211,4.481595860111844,Very satisfied
+C_2328482,automobile body control system fault diagnosis and repair,35,0.0,0.0,0.0,0.0,0.6488716941778833,75,4.481595860111844,Dissatisfied
+C_682330,automatic control theory (2),5469,40.0,5.0,9.0,26.0,0.6488716941778833,104,1.0,Very dissatisfied
+C_1778415,low frequency electronic circuit,290,3.0,1.0,0.0,2.0,0.7526476525619377,59,4.481595860111844,Neutral
+C_682671,optical engineering fundamentals,4296,11.0,4.0,1.0,6.0,0.4545454545454545,160,1.0,Satisfied
+C_1886679,sports and society,57,1.0,0.0,0.0,1.0,0.9379629629629628,74,4.481595860111844,Satisfied
+C_697721,computer operating system,2174,5.0,1.0,0.0,4.0,0.6488716941778833,91,2.0,Neutral
+C_682344,mobile communication technology,1495,33.0,4.0,3.0,26.0,0.6488716941778833,145,4.481595860111844,Very satisfied
+C_819285,space survival,16458,26.0,10.0,0.0,16.0,0.6488716941778833,42,4.481595860111844,Neutral
+C_1714443,practical chinese pediatrics,6344,64.0,1.0,4.0,59.0,0.6500400160064026,33,9.0,Very dissatisfied
+C_799800,"college physics 2 (electromagnetism, optics and quantum physics)",8529,44.0,7.0,5.0,32.0,0.5813682157685968,229,1.0,Very satisfied
+C_697030,foundations of computer graphics,1142,13.0,2.0,4.0,7.0,0.6488716941778833,52,1.0,Very dissatisfied
+C_2221589,calculus ⅰ,60,0.0,0.0,0.0,0.0,0.6488716941778833,141,9.0,Dissatisfied
+C_947164,"from ""entrance"" to ""exit"": plan your college life",1537,212.0,72.0,11.0,129.0,0.6488716941778833,40,4.481595860111844,Neutral
+C_947794,advanced machine learning bootcamp,201,100.0,33.0,10.0,57.0,0.0,69,1.0,Very dissatisfied
+C_948219,advanced comprehensive english writing,4700,96.0,27.0,4.0,65.0,0.6488716941778833,70,4.481595860111844,Neutral
+C_696656,fire combustion science,480,1.0,0.0,0.0,1.0,0.6488716941778833,38,4.481595860111844,Dissatisfied
+C_680757,quantum mechanics (bottom),3621,1.0,0.0,1.0,0.0,0.6488716941778833,88,1.0,Neutral
+C_894541,economics,1105,1.0,0.0,0.0,1.0,0.6488716941778833,24,4.481595860111844,Dissatisfied
+C_681460,plc application technology,5310,264.0,115.0,17.0,132.0,0.811868561948624,127,4.481595860111844,Satisfied
+C_1711946,key account marketing,89,1.0,0.0,1.0,0.0,0.6488716941778833,10,4.481595860111844,Dissatisfied
+C_682273,business chinese (china business overview),402,0.0,0.0,0.0,0.0,0.6488716941778833,11,4.481595860111844,Dissatisfied
+C_696972,academic english,12179,4623.0,2222.0,323.0,2078.0,1.0,210,6.0,Very satisfied
+C_697479,international marketing,3962,1.0,1.0,0.0,0.0,0.6488716941778833,39,4.481595860111844,Dissatisfied
+C_677168,film and television advertising design,1443,3.0,2.0,1.0,0.0,0.6488716941778833,78,4.481595860111844,Satisfied
+C_697072,grasshopper parametric design and modeling,9295,27.0,7.0,9.0,11.0,0.6488716941778833,70,1.0,Very dissatisfied
+C_1755961,english writing guide - polishing and improvement (international edition),133,0.0,0.0,0.0,0.0,0.6488716941778833,20,1.0,Neutral
+C_696886,wavelets and science,786,2.0,1.0,0.0,1.0,0.6488716941778833,238,5.0,Neutral
+C_735118,international trade,927,3.0,0.0,0.0,3.0,0.6006305114638447,43,4.0,Dissatisfied
+C_1776283,water conservancy project construction,8277,154.0,67.0,8.0,79.0,0.6488716941778833,84,7.0,Neutral
+C_682685,martial arts and physical fitness and risk avoidance,2458,60.0,21.0,7.0,32.0,0.6488716941778833,62,4.0,Satisfied
+C_696826,engineering drawing,26611,253.0,32.0,28.0,193.0,0.6488716941778833,110,1.0,Very satisfied
+C_682653,disaster risk management,822,5.0,3.0,0.0,2.0,0.6488716941778833,31,4.481595860111844,Dissatisfied
+C_696788,alpine skiing,552,10.0,6.0,1.0,3.0,0.6488716941778833,126,5.0,Neutral
+C_696792,first experience with ai skills-dueros system introduction (baidu yunzhi academy),155,1.0,1.0,0.0,0.0,0.6488716941778833,18,4.481595860111844,Dissatisfied
+C_697023,introduction to textiles,2229,0.0,0.0,0.0,0.0,0.6488716941778833,71,4.481595860111844,Dissatisfied
+C_1771543,clinical research and experimental skills,1423,0.0,0.0,0.0,0.0,0.6488716941778833,130,5.0,Neutral
+C_697267,university computer,3409,17.0,1.0,2.0,14.0,0.0,168,7.0,Very dissatisfied
+C_1736846,access programming basics,351,1.0,0.0,0.0,1.0,0.6488716941778833,55,4.481595860111844,Dissatisfied
+C_681025,innovation and entrepreneurship basics,1697,40.0,2.0,9.0,29.0,0.6488716941778833,107,4.481595860111844,Very dissatisfied
+C_682586,visual communication design thinking and methods,17888,202.0,64.0,26.0,112.0,0.6488716941778833,32,1.0,Very satisfied
+C_1912002,multivariate statistical analysis,221,0.0,0.0,0.0,0.0,0.6488716941778833,71,9.0,Very dissatisfied
+C_948235,contemporary chinese diplomacy,11234,31.0,17.0,2.0,12.0,0.6488716941778833,76,4.481595860111844,Satisfied
+C_677018,nutrition and health lectures,3013,32.0,7.0,0.0,25.0,0.6488716941778833,65,4.481595860111844,Dissatisfied
+C_677218,computer network,19948,91.0,18.0,8.0,65.0,0.625,164,6.0,Very satisfied
+C_1846545,calculation method,2668,1.0,0.0,0.0,1.0,0.5,72,9.0,Very dissatisfied
+C_681158,college physics (part 2),869,3.0,1.0,0.0,2.0,0.6488716941778833,57,4.481595860111844,Dissatisfied
+C_676897,modern etiquette and cultivation,2661,1168.0,927.0,14.0,227.0,0.6488716941778833,97,4.481595860111844,Neutral
+C_681057,socially-responsible real estate development: learning to use impact assessment tools effectively,728,1.0,0.0,0.0,1.0,0.6488716941778833,43,4.481595860111844,Dissatisfied
+C_680991,basic accounting,1727,8.0,1.0,2.0,5.0,0.6488716941778833,83,9.0,Very dissatisfied
+C_948399,communication principle,1026,9.0,1.0,0.0,8.0,0.1589506172839506,47,4.481595860111844,Very dissatisfied
+C_873864,practical japanese conversation,26266,371.0,105.0,32.0,234.0,0.6488716941778833,55,1.0,Very satisfied
+C_676905,career and entrepreneurship competencies,1553,2.0,2.0,0.0,0.0,0.6488716941778833,35,2.0,Neutral
+C_682350,the meaning is in the image - appreciation of chinese classical poetry,3381,77.0,40.0,11.0,26.0,0.683848797250859,69,4.0,Satisfied
+C_948103,basic principles of education,11761,210.0,107.0,1.0,102.0,0.7930908788789693,54,4.481595860111844,Satisfied
+C_677184,numerical calculations of heat transfer and fluid flow,2692,6.0,0.0,3.0,3.0,0.6488716941778833,28,4.481595860111844,Dissatisfied
+C_682746,cartoon explaining digital electronic technology,45,0.0,0.0,0.0,0.0,0.6488716941778833,148,9.0,Dissatisfied
+C_697135,introduction to biomedical imaging,1139,6.0,2.0,2.0,2.0,0.7887788778877888,113,1.0,Very dissatisfied
+C_697307,medical immunology and pathogen biology,9002,3094.0,530.0,806.0,1758.0,0.6488716941778833,134,4.481595860111844,Very dissatisfied
+C_682771,comprehensive experiment of time domain testing technology,1685,0.0,0.0,0.0,0.0,0.6488716941778833,17,7.0,Dissatisfied
+C_680841,internal control and risk management,2716,18.0,2.0,1.0,15.0,0.6488716941778833,141,4.481595860111844,Very satisfied
+C_1691403,cybersecurity premium course: security compliance and risk management,1930,0.0,0.0,0.0,0.0,0.6488716941778833,9,4.481595860111844,Dissatisfied
+C_759007,introduction to philology,650,1.0,0.0,0.0,1.0,0.8413438256658595,57,4.481595860111844,Satisfied
+C_681592,aws cloud computing training course-the road to cloud computing solution architect (advanced course),473,4.0,0.0,2.0,2.0,0.6488716941778833,61,9.0,Very dissatisfied
+C_677042,public affairs ethics,7338,90.0,18.0,10.0,62.0,0.6488716941778833,59,1.0,Very satisfied
+C_680731,smart city,4209,11.0,5.0,3.0,3.0,0.0,21,5.0,Very dissatisfied
+C_881424,2014 tsinghua university graduate thesis defense (1),2317,0.0,0.0,0.0,0.0,0.6488716941778833,150,1.0,Neutral
+C_1824911,gynecological clinical nursing practice,1409,438.0,41.0,27.0,370.0,0.826560877590111,66,4.481595860111844,Very satisfied
+C_898292,higher vocational sports and health,3646,459.0,166.0,13.0,280.0,0.9699248120300752,59,4.481595860111844,Satisfied
+C_696832,structural mechanics (1),3050,25.0,1.0,5.0,19.0,0.7589851628825586,210,5.0,Very dissatisfied
+C_697213,computer culture basics,3796,97.0,17.0,33.0,47.0,0.4223356009070294,191,4.481595860111844,Very dissatisfied
+C_677179,classical sociological theory,1897,99.0,13.0,15.0,71.0,0.6488716941778833,99,4.481595860111844,Very dissatisfied
+C_682190,introduction to industrial production management,6526,319.0,21.0,12.0,286.0,0.6488716941778833,160,1.0,Very satisfied
+C_948485,data structures and algorithms,1756,6.0,2.0,2.0,2.0,0.6488716941778833,96,4.481595860111844,Very dissatisfied
+C_682459,tv camera,1162,29.0,2.0,0.0,27.0,0.6488716941778833,51,4.481595860111844,Dissatisfied
+C_682822,introduction to regular script,2765,27.0,13.0,0.0,14.0,0.6488716941778833,37,4.481595860111844,Dissatisfied
+C_2287013,aerospace technology,119,0.0,0.0,0.0,0.0,0.6488716941778833,107,4.481595860111844,Dissatisfied
+C_1771174,computer-aided drug design,98,0.0,0.0,0.0,0.0,0.6488716941778833,49,9.0,Very dissatisfied
+C_697169,new progress in medical experimental technology and methods,2519,23.0,6.0,5.0,12.0,0.6488716941778833,40,5.0,Very satisfied
+C_2141844,pediatrics,281,0.0,0.0,0.0,0.0,0.6488716941778833,52,4.481595860111844,Dissatisfied
+C_681470,meridian health and culture,1792,33.0,3.0,8.0,22.0,0.6488716941778833,33,4.481595860111844,Very dissatisfied
+C_2141842,pediatric massage,1120,29.0,11.0,2.0,16.0,0.7923316027439536,33,4.481595860111844,Satisfied
+C_680724,quality management,2241,46.0,15.0,3.0,28.0,0.6488716941778833,36,7.0,Neutral
+C_696920,principles of management,3333,56.0,8.0,2.0,46.0,0.6488716941778833,105,4.481595860111844,Satisfied
+C_916841,topic planning and case analysis,534,0.0,0.0,0.0,0.0,0.6488716941778833,104,4.481595860111844,Dissatisfied
+C_696800,the art of management communication,22206,454.0,112.0,18.0,324.0,0.6488716941778833,63,4.481595860111844,Satisfied
+C_682415,"ten lectures on ""historical records""",6117,65.0,14.0,11.0,40.0,0.9,35,4.0,Very satisfied
+C_754135,artificial intelligence and entrepreneurial intelligence,16670,2532.0,2490.0,2.0,40.0,0.7877597532142756,84,4.0,Satisfied
+C_2141859,entrepreneurship management and venture capital,192,2.0,1.0,1.0,0.0,0.9197132616487456,75,4.481595860111844,Very dissatisfied
+C_905197,marketing,6624,444.0,83.0,13.0,348.0,0.6488716941778833,71,4.481595860111844,Satisfied
+C_677038,the master teacher in the e era - the training methods of mooc teachers,5084,673.0,316.0,34.0,323.0,0.6488716941778833,40,1.0,Satisfied
+C_758208,chinese·listening and listening,11988,10.0,2.0,1.0,7.0,0.6488716941778833,81,4.481595860111844,Very satisfied
+C_682681,turbine automation,297,1.0,0.0,1.0,0.0,0.6488716941778833,101,4.481595860111844,Dissatisfied
+C_760442,introduction to dialectics of nature,17904,624.0,98.0,29.0,497.0,0.6755866940077467,63,7.0,Satisfied
+C_1755925,creativity,111,4.0,4.0,0.0,0.0,0.6941632747872136,34,4.0,Neutral
+C_948099,western economics,13040,9.0,0.0,1.0,8.0,0.4244558743037445,80,4.481595860111844,Very dissatisfied
+C_1686971,blood stasis and promoting blood stasis and removing blood stasis,910,34.0,22.0,0.0,12.0,0.6488716941778833,17,4.481595860111844,Dissatisfied
+C_696597,college student mental health,31810,1614.0,244.0,98.0,1272.0,0.5,79,1.0,Very satisfied
+C_707103,fire emergency rescue,781,29.0,0.0,0.0,29.0,0.4126483836004075,34,4.481595860111844,Very dissatisfied
+C_936949,learn to measure easily,1005,22.0,10.0,2.0,10.0,0.6488716941778833,44,4.481595860111844,Neutral
+C_1925905,microbiology,219,0.0,0.0,0.0,0.0,0.6488716941778833,108,4.481595860111844,Dissatisfied
+C_808534,basic japanese (1),7569,846.0,246.0,134.0,466.0,0.6488716941778833,150,4.481595860111844,Very satisfied
+C_680812,catalyst design and preparation,1357,5.0,0.0,1.0,4.0,0.6488716941778833,184,4.481595860111844,Neutral
+C_676978,it turns out that the flowers are blooming everywhere——kun opera art appreciation,2227,192.0,98.0,4.0,90.0,0.6488716941778833,35,1.0,Neutral
+C_680824,linear system theory,2190,7.0,1.0,1.0,5.0,0.6488716941778833,171,1.0,Very dissatisfied
+C_696905,management,2833,77.0,25.0,8.0,44.0,0.6488716941778833,43,4.481595860111844,Satisfied
+C_682475,eu economy,337,2.0,1.0,0.0,1.0,0.6488716941778833,36,4.481595860111844,Dissatisfied
+C_916851,thai on campus,150,0.0,0.0,0.0,0.0,0.6488716941778833,11,4.481595860111844,Dissatisfied
+C_948113,modern aesthetics,9021,4643.0,1433.0,198.0,3012.0,0.8603739460826311,100,4.481595860111844,Very satisfied
+C_1776281,stage costume design,245,0.0,0.0,0.0,0.0,0.6488716941778833,50,4.481595860111844,Dissatisfied
+C_819191,administrative litigation law,1509,7.0,1.0,1.0,5.0,0.6488716941778833,60,4.481595860111844,Very dissatisfied
+C_696625,fire safety in industrial enterprises,428,1.0,1.0,0.0,0.0,0.6488716941778833,20,4.481595860111844,Dissatisfied
+C_948282,polymer chemistry,8196,26.0,4.0,3.0,19.0,0.6703851295695599,58,4.481595860111844,Very satisfied
+C_682696,image processing and analysis,5950,46.0,1.0,3.0,42.0,0.6488716941778833,56,4.0,Very dissatisfied
+C_1778560,chinese art history,274,6.0,2.0,1.0,3.0,0.6807222601959444,47,4.481595860111844,Satisfied
+C_681026,ideological and moral cultivation and legal basis,1669,275.0,28.0,16.0,231.0,0.6488716941778833,91,4.481595860111844,Very satisfied
+C_948293,college chinese,2231,252.0,117.0,10.0,125.0,0.8221425067935402,36,4.481595860111844,Satisfied
+C_682505,programming technology (c-based)-basics,2499,360.0,50.0,21.0,289.0,0.6488716941778833,47,9.0,Satisfied
+C_629559,advanced living english,67051,656.0,107.0,80.0,469.0,0.6488716941778833,149,1.0,Very satisfied
+C_948408,frontier topics in quantum mechanics,15717,11.0,6.0,2.0,3.0,0.6488716941778833,79,1.0,Very satisfied
+C_734021,financial analysis (bilingual course),521,8.0,2.0,1.0,5.0,0.6488716941778833,29,4.481595860111844,Satisfied
+C_862967,neuroengineering,11151,65.0,46.0,2.0,17.0,0.6488716941778833,59,6.0,Neutral
+C_2308093,environmental engineering professional english,44,0.0,0.0,0.0,0.0,0.6488716941778833,51,4.0,Dissatisfied
+C_808529,water supply and drainage pipeline engineering,7387,39.0,13.0,4.0,22.0,0.6488716941778833,76,4.481595860111844,Satisfied
+C_1906555,foreign trade correspondence,12240,74.0,17.0,2.0,55.0,0.7772580932313413,40,4.481595860111844,Satisfied
+C_682683,smart car production: embedded system,2250,2.0,2.0,0.0,0.0,0.6488716941778833,30,1.0,Neutral
+C_770766,british and american music and culture,1291,19.0,2.0,0.0,17.0,0.7578474765974769,532,6.0,Satisfied
+C_948410,introduction to chinese economy,27552,535.0,223.0,49.0,263.0,0.6488716941778833,78,1.0,Very satisfied
+C_680985,computer communication network,5579,0.0,0.0,0.0,0.0,0.6488716941778833,73,7.0,Dissatisfied
+C_680764,information hiding technology,426,0.0,0.0,0.0,0.0,0.6488716941778833,74,4.481595860111844,Dissatisfied
+C_948296,ansai waist drum,3996,812.0,455.0,16.0,341.0,0.6488716941778833,64,4.481595860111844,Neutral
+C_1779421,academic english writing and communication,5444,438.0,290.0,30.0,118.0,0.5522953318302737,64,4.481595860111844,Dissatisfied
+C_694141,systems engineering principles,1067,0.0,0.0,0.0,0.0,0.6488716941778833,81,4.481595860111844,Dissatisfied
+C_680916,ancient chinese architectural art,1581,4.0,2.0,0.0,2.0,0.6173269972591127,77,5.0,Dissatisfied
+C_696892,"chinese traditional art - experience and appreciation of seal cutting, calligraphy, and ink painting",4879,52.0,21.0,6.0,25.0,0.6268600447173434,115,5.0,Satisfied
+C_707221,food and health,576,0.0,0.0,0.0,0.0,0.6488716941778833,325,1.0,Satisfied
+C_697684,"the wisdom of ""the analects""",4030,82.0,26.0,8.0,48.0,0.8076681427173125,46,4.481595860111844,Very satisfied
+C_1764864,dynamics (international edition),210,0.0,0.0,0.0,0.0,0.6488716941778833,119,4.481595860111844,Neutral
+C_781445,traditional chinese medicine otolaryngology,17295,542.0,204.0,116.0,222.0,0.6488716941778833,89,4.481595860111844,Very satisfied
+C_770768,structural mechanics (3),1056,4.0,3.0,0.0,1.0,0.6488716941778833,153,5.0,Neutral
+C_682525,physical chemistry (part 2),1475,1.0,0.0,0.0,1.0,0.6488716941778833,62,2.0,Neutral
+C_1691410,premium network security course: data center security,1930,0.0,0.0,0.0,0.0,0.6488716941778833,7,4.481595860111844,Dissatisfied
+C_909412,introduction to spanish,1184,15.0,1.0,0.0,14.0,0.6488716941778833,73,4.481595860111844,Dissatisfied
+C_1886683,analog circuit design,45,0.0,0.0,0.0,0.0,0.6488716941778833,33,4.481595860111844,Dissatisfied
+C_883372,computational geometry,3061,44.0,13.0,11.0,20.0,0.7380358916910188,1104,1.0,Very satisfied
+C_911133,fixed fire protection facilities,563,6.0,0.0,0.0,6.0,0.6488716941778833,45,4.481595860111844,Dissatisfied
+C_2297229,food nutrition,1010,1.0,1.0,0.0,0.0,0.8632931142616824,88,4.481595860111844,Satisfied
+C_1784704,great charm of sichuan opera,71,0.0,0.0,0.0,0.0,0.6488716941778833,29,4.481595860111844,Dissatisfied
+C_797853,expansion of principles of general principles of civil law,4438,4885.0,409.0,706.0,3770.0,0.4895236182737561,153,4.481595860111844,Very dissatisfied
+C_1884058,building community resilience and development,296,0.0,0.0,0.0,0.0,0.6488716941778833,4,4.0,Dissatisfied
+C_1824924,phytosanitary,4260,41.0,20.0,5.0,16.0,0.5837513236354319,100,7.0,Neutral
+C_681474,dynamic geometry,409,7.0,2.0,1.0,4.0,0.6488716941778833,60,4.481595860111844,Satisfied
+C_1691453,medical postgraduate education and teaching lectures,86,0.0,0.0,0.0,0.0,0.6488716941778833,3,9.0,Very dissatisfied
+C_681066,basic human biology: cells and tissues,739,0.0,0.0,0.0,0.0,0.6488716941778833,68,2.0,Neutral
+C_1765602,analytical chemistry,61,0.0,0.0,0.0,0.0,0.6488716941778833,135,4.481595860111844,Neutral
+C_1731888,translation skills and practice,703,24.0,19.0,0.0,5.0,0.0,77,4.481595860111844,Very dissatisfied
+C_823327,c language programming basics,2587,94.0,11.0,1.0,82.0,0.6359134471578624,52,4.481595860111844,Neutral
+C_876706,building construction technology,2688,277.0,55.0,2.0,220.0,0.6488716941778833,152,4.481595860111844,Neutral
+C_697766,tea art,2112,43.0,3.0,4.0,36.0,0.8052820891105226,59,4.481595860111844,Very dissatisfied
+C_1756076,introduction to human evolution (international edition),37,0.0,0.0,0.0,0.0,0.6488716941778833,200,4.481595860111844,Neutral
+C_1825111,russian history (2),239,0.0,0.0,0.0,0.0,0.6488716941778833,70,4.481595860111844,Dissatisfied
+C_1755912,foundations of logic,518,4.0,0.0,0.0,4.0,0.0,85,1.0,Very dissatisfied
+C_934517,mobile communication principles,9557,21.0,3.0,2.0,16.0,0.6488716941778833,100,4.481595860111844,Very satisfied
+C_746983,structural mechanics,13086,76.0,37.0,3.0,36.0,0.626571840005803,108,7.0,Neutral
+C_1765604,elements of structures (international edition),156,0.0,0.0,0.0,0.0,0.6488716941778833,214,4.481595860111844,Neutral
+C_697188,photojournalism,30312,536.0,135.0,37.0,364.0,0.5,127,1.0,Very satisfied
+C_854870,vc++ object-oriented and visual programming (part 2): mfc programming basics,2829,5.0,1.0,1.0,3.0,0.6488716941778833,59,1.0,Very dissatisfied
+C_697091,big data and urban planning,25264,356.0,86.0,57.0,213.0,0.6488716941778833,88,1.0,Very satisfied
+C_758201,analysis and singing of folk songs in northern shaanxi,1606,413.0,227.0,15.0,171.0,0.7941635846328846,53,4.481595860111844,Satisfied
+C_1741500,automotive testing and diagnostics,841,0.0,0.0,0.0,0.0,0.6488716941778833,81,4.481595860111844,Dissatisfied
+C_677055,practical knot techniques,1225,8.0,1.0,1.0,6.0,0.6488716941778833,48,4.481595860111844,Very dissatisfied
+C_682486,web design and application,3087,30.0,5.0,7.0,18.0,0.6607142857142857,75,4.481595860111844,Very dissatisfied
+C_696882,piano playing basics,4860,47.0,21.0,7.0,19.0,0.7,55,2.0,Satisfied
+C_2328543,scam exposure and prevention,1684,0.0,0.0,0.0,0.0,0.6488716941778833,78,4.481595860111844,Dissatisfied
+C_735441,software engineering and software automation,738,0.0,0.0,0.0,0.0,0.6488716941778833,91,7.0,Dissatisfied
+C_680852,2017 tsinghua university graduate thesis defense (2),55,0.0,0.0,0.0,0.0,0.6488716941778833,15,1.0,Neutral
+C_948239,enter the political world of women,406,1.0,1.0,0.0,0.0,0.6488716941778833,55,4.481595860111844,Dissatisfied
+C_697071,theoretical mechanics,822,3.0,1.0,0.0,2.0,0.3333333333333333,29,9.0,Very dissatisfied
+C_947169,accounting principles,1238,20.0,2.0,7.0,11.0,0.6488716941778833,106,4.481595860111844,Very dissatisfied
+C_677144,game psychology,2168,13.0,1.0,3.0,9.0,0.6196919821804545,67,4.481595860111844,Very dissatisfied
+C_1410371,here comes the “oil” for a better life: an introduction to oil science,5167,31.0,24.0,0.0,7.0,0.6673311184939092,64,9.0,Dissatisfied
+C_948129,introduction to water conservancy and hydropower engineering,12379,1914.0,1105.0,45.0,764.0,0.80176946368647,84,4.481595860111844,Satisfied
+C_680719,a brief history of chinese film art,1667,6.0,0.0,1.0,5.0,0.6651522513767412,27,4.481595860111844,Dissatisfied
+C_1776297,e-commerce english,192,0.0,0.0,0.0,0.0,0.6488716941778833,100,4.481595860111844,Dissatisfied
+C_680717,introduction to clinical medicine,1349,14.0,1.0,2.0,11.0,0.8334515366430258,92,4.481595860111844,Very dissatisfied
+C_682451,hematology and transfusion testing technology,1079,20.0,4.0,10.0,6.0,0.6488716941778833,24,4.481595860111844,Very dissatisfied
+C_688346,movement and anatomy,2384,2.0,0.0,2.0,0.0,0.6488716941778833,69,4.481595860111844,Dissatisfied
+C_1828106,pharmacology,192,0.0,0.0,0.0,0.0,0.6488716941778833,109,4.0,Neutral
+C_2336296,landscape sketching,960,0.0,0.0,0.0,0.0,0.6488716941778833,19,1.0,Neutral
+C_697228,"the wisdom of life from confucianism, buddhism and taoism",1025,17.0,4.0,0.0,13.0,0.6136363636363636,41,4.481595860111844,Dissatisfied
+C_681075,ancient chinese literature,2059,48.0,9.0,2.0,37.0,0.6488716941778833,100,4.481595860111844,Satisfied
+C_1864058,contemporary electronic system design,86,0.0,0.0,0.0,0.0,0.6488716941778833,93,1.0,Neutral
+C_932172,fire technical equipment,516,1.0,0.0,1.0,0.0,0.6488716941778833,45,4.481595860111844,Dissatisfied
+C_735097,web security practices,38,0.0,0.0,0.0,0.0,0.6488716941778833,65,1.0,Neutral
+C_909097,orff music teaching method,5082,5838.0,3870.0,25.0,1943.0,0.6488716941778833,28,4.481595860111844,Dissatisfied
+C_799778,physics and chemistry around you,702,66.0,10.0,14.0,42.0,0.6488716941778833,73,4.481595860111844,Very dissatisfied
+C_696762,ap environmental science - part 1: the living,123,0.0,0.0,0.0,0.0,0.6488716941778833,21,2.0,Neutral
+C_1854892,accounting,130,2.0,0.0,0.0,2.0,0.415151515151515,41,4.481595860111844,Very dissatisfied
+C_682297,exploring the materials around us - materials and society,919,15.0,2.0,1.0,12.0,0.6488716941778833,104,4.481595860111844,Very satisfied
+C_682716,principles of environmental geosciences,2653,61.0,20.0,7.0,34.0,0.6488716941778833,161,4.0,Satisfied
+C_908991,public swimming,2285,25.0,1.0,2.0,22.0,0.6488716941778833,94,4.481595860111844,Very dissatisfied
+C_916853,survival thai,225,1.0,0.0,1.0,0.0,0.6488716941778833,16,4.481595860111844,Dissatisfied
+C_697107,operations research,1900,2.0,2.0,0.0,0.0,0.5522591294308477,106,11.0,Very dissatisfied
+C_1907726,advanced nursing management practice,1044,0.0,0.0,0.0,0.0,0.6488716941778833,61,7.0,Dissatisfied
+C_682458,accounting principles,22077,277.0,56.0,19.0,202.0,0.6488716941778833,73,1.0,Very satisfied
+C_680905,modern detection technology,1432,74.0,6.0,4.0,64.0,0.6786506777945046,81,4.481595860111844,Very satisfied
+C_890276,2014 tsinghua university graduate thesis defense (2),1449,0.0,0.0,0.0,0.0,0.6488716941778833,75,1.0,Neutral
+C_1781812,d and mat oven and eo log with,191,4.0,3.0,0.0,1.0,0.4,39,4.481595860111844,Very dissatisfied
+C_1756056,university english for academic purposes,574,1.0,0.0,0.0,1.0,0.8537975009125021,148,1.0,Satisfied
+C_682239,everywhere - infectious diseases,11948,334.0,38.0,23.0,273.0,0.6488716941778833,133,4.481595860111844,Very satisfied
+C_1755958,english grammar and writing style (international edition),164,0.0,0.0,0.0,0.0,0.6488716941778833,63,1.0,Neutral
+C_697367,indoor flower and plant cultivation technology and decorative scenery,1741,10.0,4.0,3.0,3.0,0.844348879080756,65,4.481595860111844,Very satisfied
+C_1774962,geriatrics of traditional chinese medicine,87,2.0,0.0,0.0,2.0,0.9963235294117648,59,4.481595860111844,Satisfied
+C_682498,fun with britain and america,291,0.0,0.0,0.0,0.0,0.6488716941778833,29,4.481595860111844,Dissatisfied
+C_1761369,history of western civilization before the 19th century,214,1.0,1.0,0.0,0.0,0.6831437320849085,80,4.481595860111844,Neutral
+C_1755946,advanced business english,175,0.0,0.0,0.0,0.0,0.6488716941778833,74,4.481595860111844,Dissatisfied
+C_681357,internet of everything,609,2.0,1.0,0.0,1.0,0.6488716941778833,34,4.481595860111844,Dissatisfied
+C_948142,chemical engineering principles,985,9.0,2.0,1.0,6.0,0.6636656877176634,172,4.481595860111844,Very satisfied
+C_2053613,scientific research methods and thesis writing,1268,0.0,0.0,0.0,0.0,0.6488716941778833,93,2.0,Neutral
+C_682268,logistics management basics,2562,216.0,57.0,8.0,151.0,0.6488716941778833,64,9.0,Dissatisfied
+C_909099,pharmacology of traditional chinese medicine-learn to be your own conditioning practitioner,5501,55.0,33.0,4.0,18.0,0.6488716941778833,134,9.0,Neutral
+C_681761,code+programming competition exercises explanation,425,0.0,0.0,0.0,0.0,0.6488716941778833,11,4.481595860111844,Dissatisfied
+C_1837426,teach you how to play with excel and gain an efficient life,51,1.0,1.0,0.0,0.0,0.6488716941778833,27,6.0,Dissatisfied
+C_2266759,biochemistry and molecular biology,485,69.0,0.0,0.0,69.0,0.7658733981485226,161,4.481595860111844,Satisfied
+C_1756753,history of chinese architecture part ii,216,0.0,0.0,0.0,0.0,0.6488716941778833,70,1.0,Neutral
+C_854832,postgraduate academic and professional quality lectures,3048,18.0,0.0,8.0,10.0,0.5962783670230478,34,1.0,Neutral
+C_2235604,computer music,1583,3.0,2.0,0.0,1.0,0.7384462640872897,46,4.481595860111844,Neutral
+C_676696,understand marx,3124,73.0,9.0,4.0,60.0,0.6488716941778833,46,2.0,Very satisfied
+C_682260,college physics - mechanics and thermal,1933,0.0,0.0,0.0,0.0,0.6488716941778833,80,7.0,Dissatisfied
+C_948153,safety management,15731,670.0,249.0,41.0,380.0,0.7998764595476038,51,4.481595860111844,Satisfied
+C_866182,middle school art teaching design,9966,19492.0,10585.0,641.0,8266.0,0.89548407796583,115,4.481595860111844,Satisfied
+C_2297250,built environment,168,19.0,12.0,0.0,7.0,0.3337090783891624,54,4.481595860111844,Very dissatisfied
+C_898310,introduction to internet of things engineering,14147,91.0,20.0,3.0,68.0,0.6488716941778833,38,4.481595860111844,Satisfied
+C_681581,aws cloud security--data encryption and key management,110,0.0,0.0,0.0,0.0,0.6488716941778833,6,4.481595860111844,Dissatisfied
+C_735244,advanced japanese language and culture,17541,37.0,7.0,4.0,26.0,0.6488716941778833,65,1.0,Very satisfied
+C_696651,electrical technology,139,0.0,0.0,0.0,0.0,0.6488716941778833,84,1.0,Neutral
+C_680786,dynamic testing and analysis (part 1),402,0.0,0.0,0.0,0.0,0.6488716941778833,115,1.0,Neutral
+C_735450,microeconomics(autumn 2018),318,0.0,0.0,0.0,0.0,0.6488716941778833,54,9.0,Very dissatisfied
+C_1801563,medical physiology experiment,1635,0.0,0.0,0.0,0.0,0.6488716941778833,59,4.481595860111844,Dissatisfied
+C_697130,modern life aesthetics - the art of flower arrangement,32195,2756.0,611.0,21.0,2124.0,0.6488716941778833,112,1.0,Satisfied
+C_697288,plant fiber chemistry,12071,584.0,56.0,52.0,476.0,0.6488716941778833,108,4.481595860111844,Very satisfied
+C_1774980,flavor chemistry and analysis,230,4.0,2.0,0.0,2.0,0.830224599961442,40,4.481595860111844,Satisfied
+C_681422,plant landscaping,2312,125.0,28.0,3.0,94.0,0.6488716941778833,79,4.481595860111844,Neutral
+C_697410,"introduction to ""tongwancheng""",2092,1541.0,445.0,136.0,960.0,0.6488716941778833,65,4.481595860111844,Satisfied
+C_682595,statistical signal processing,3875,718.0,216.0,116.0,386.0,0.6488716941778833,157,4.481595860111844,Very satisfied
+C_2141865,environmental chemistry,62,1.0,0.0,0.0,1.0,0.7117117117117117,67,4.481595860111844,Neutral
+C_1755941,introducing china in english,293,1.0,1.0,0.0,0.0,0.8302390998593528,90,4.481595860111844,Satisfied
+C_735077,toxicological basics,2755,531.0,41.0,155.0,335.0,0.7357418111753372,100,4.481595860111844,Very dissatisfied
+C_682128,pulping principles and engineering,1626,0.0,0.0,0.0,0.0,0.6488716941778833,53,6.0,Dissatisfied
+C_1991780,introduction to film music,64,53.0,33.0,4.0,16.0,0.7768939393939394,48,4.481595860111844,Satisfied
+C_682531,physical chemistry (part 1),2057,48.0,21.0,2.0,25.0,0.6488716941778833,59,2.0,Neutral
+C_1776316,introduction to yangming studies,11796,146.0,64.0,18.0,64.0,0.6401889503143201,66,4.481595860111844,Satisfied
+C_1891064,3s field practical teaching,158,0.0,0.0,0.0,0.0,0.6488716941778833,25,4.481595860111844,Dissatisfied
+C_948486,physical chemistry,8290,221.0,64.0,11.0,146.0,0.6488716941778833,72,4.481595860111844,Satisfied
+C_735324,"learn to communicate and ""speak"" well",4034,181.0,68.0,17.0,96.0,0.6488716941778833,28,4.481595860111844,Satisfied
+C_893818,rural e-commerce new media marketing,1189,134.0,24.0,7.0,103.0,0.6488716941778833,57,4.481595860111844,Satisfied
+C_1944726,electromagnetic fields and waves,372,1.0,0.0,0.0,1.0,0.5836409073433295,103,4.481595860111844,Dissatisfied
+C_948210,flow testing theory and methods in engineering,1681,0.0,0.0,0.0,0.0,0.6488716941778833,53,6.0,Dissatisfied
+C_947231,practical english writing,391,0.0,0.0,0.0,0.0,0.6488716941778833,68,4.481595860111844,Dissatisfied
+C_927972,wisdom china english says,8924,4091.0,2172.0,240.0,1679.0,0.6488716941778833,108,4.481595860111844,Satisfied
+C_1764856,ap environmental science - part 1: the living (international edition),32,0.0,0.0,0.0,0.0,0.6488716941778833,23,2.0,Neutral
