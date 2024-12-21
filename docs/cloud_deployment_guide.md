@@ -1,5 +1,7 @@
 # Các bước triển khai chính trên điện toán đám mây AWS. Do hạn chế về tài nguyên nên nhóm chỉ sử dụng ba services chính là `Amazon SageMaker AI` để chạy thử model, `EC2` để deploy web và `S3` để lưu trữ data.
 
+![alt text](img/Cloud.drawio.png)
+
 ## I. Các bước triển khai trên `Amazon SageMaker AI`:
 ### B1: Đăng nhập tài khoản trên AWS và tìm chọn service `Amazon SageMaker AI`.
 ### B2: Tìm và chọn Notebooks ở phía bên tay trái.
