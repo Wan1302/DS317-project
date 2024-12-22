@@ -1,0 +1,1 @@
+# Vì vấn đề về tài nguyên nên nhóm không thể triển khai hệ thống theo cách real time nên sẽ giả sử chia dữ liệu làm 2 phần, phần train sẽ là dữ liệu của các khóa học năm 2024 và phần test là dữ liệu của các khóa học năm 2025.
