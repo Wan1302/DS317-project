@@ -16,7 +16,7 @@ Trong bối cảnh giáo dục trực tuyến đang phát triển nhanh chóng, 
 # Framework của đồ án:
 ![alt text](docs/img/Framework.jpg)
 
-# Kiến trúc hệ thống:
+# Kiến trúc hệ thống Web:
 ![alt text](docs/img/Architecture.jpg)
 
 # Framework triển khai trên cloud:
